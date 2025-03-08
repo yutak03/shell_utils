@@ -3,7 +3,7 @@
 
 ## スクリプト
 
-- create_app_icons.sh
+- [create_app_icons.sh](https://github.com/yutak03/shell_utils/blob/main/create_app_icons.sh)
     - ネイティブアプリのアイコンを様々なサイズへ変換するスクリプト
         - assetsディレクトリ配下に元のアイコンを配置してください
 
